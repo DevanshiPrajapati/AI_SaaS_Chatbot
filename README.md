@@ -1,3 +1,3 @@
-# AI_SaaS_Chatbot
+# AI SaaS Chatbot using MERN Stack
 
 Text for test commit
